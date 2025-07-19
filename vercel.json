@@ -1,8 +1,9 @@
 {
-  "rewrites": [
+  "redirects": [
     {
       "source": "/padre-gino",
-      "destination": "https://citr-v9-project.vercel.app"
+      "destination": "https://citr-v9-project.vercel.app",
+      "permanent": true
     }
   ]
 }
